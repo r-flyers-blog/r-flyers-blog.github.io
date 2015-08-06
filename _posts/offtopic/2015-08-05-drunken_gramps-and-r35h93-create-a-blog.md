@@ -7,7 +7,7 @@ categories: offtopic
 excerpt: "Oh no, what did we start"
 tags: []
 image:
-  feature:
+  feature: no_idea.jpg
   teaser: drawing.jpg
   thumb: drawing.jpg
 date: 2015-08-05T21:23:50-04:00

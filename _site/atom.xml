@@ -7,7 +7,7 @@
   <subtitle>Blog created by fans and followers of the Flyers</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="/" rel="alternate" type="text/html"/>
-  <updated>2015-08-05T21:49:35-04:00</updated>
+  <updated>2015-08-05T21:52:29-04:00</updated>
   <id>/</id>
   <author>
     <name></name>
@@ -27,7 +27,7 @@
       
     </author>
     <content type="html">
-      
+      &lt;img src=&quot;/images/no_idea.jpg&quot;&gt;&lt;br/&gt;
       &lt;h1 id=&quot;welcome-to-the-blog&quot;&gt;Welcome to the Blog&lt;/h1&gt;
 
 &lt;p&gt;This is an example of an article! Hopefully the future ones will have some alot of awesome insight and stuff&lt;/p&gt;
